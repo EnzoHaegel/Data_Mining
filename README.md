@@ -1,4 +1,4 @@
 # Data_Mining
 Data Mining
 
-This is the data set that I will use for the course Data mining
+You can find everything that I used for this project, such as the code and the data for the course Data Mining at NTPU
